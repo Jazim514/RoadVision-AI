@@ -1,0 +1,6 @@
+{
+  "name": "RoadVision AI",
+  "description": "Edge AI mobile pothole and road distress detection system with 30+ FPS video processing, sensor fusion, and GIS mapping telemetry sync.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
